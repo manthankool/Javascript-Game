@@ -1,2 +1,2 @@
-Just a game from CodeHeroes.io JavaScript course.
-http://codingheroes.io/
+Just a game from www.makcorps.com JavaScript course.
+www.makcorps.com
